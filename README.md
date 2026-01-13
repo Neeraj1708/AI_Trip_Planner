@@ -1,6 +1,6 @@
 # 🌍 AI Trip Planner
 
-### 🚀 [Live Demo](https://ai-trip-planner-neeraj-five.vercel.app))
+### 🚀 [Live Demo](https://ai-trip-planner-neeraj-five.vercel.app)
 
  
 A smart, AI-powered travel assistant that generates personalized trip itineraries based on your preferences. Built with **React.js**, **Google Gemini AI**, and **Firebase**, this application offers a modern, responsive interface to plan your next adventure effortlessly.
