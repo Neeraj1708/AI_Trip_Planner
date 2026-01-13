@@ -1,9 +1,16 @@
 # 🌍 AI Trip Planner
 
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Gemini AI](https://img.shields.io/badge/Google%20Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+
 ### 🚀 [Live Demo](https://ai-trip-planner-neeraj-five.vercel.app)
 
  
-A smart, AI-powered travel assistant that generates personalized trip itineraries based on your preferences. Built with **React.js**, **Google Gemini AI**, and **Firebase**, this application offers a modern, responsive interface to plan your next adventure effortlessly.
+A smart, AI-powered travel assistant that generates personalized trip itineraries based on your preferences. Built with **React.js**, **Google Gemini AI**, and **Firebase**, this application offers a modern, responsive interface to plan your next adventure effortlessly.  Powered by **Google Gemini AI**, **OpenStreetMap**, and **Firebase**.
 
 ![Project Banner](public/landing.png)
 ## ✨ Features
