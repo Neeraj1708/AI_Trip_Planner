@@ -5,7 +5,7 @@ A smart, AI-powered travel assistant that generates personalized trip itinerarie
 ![Project Banner](public/landing.png)
 ## ✨ Features
 
-- **🚀 AI-Powered Itineraries:** Generates detailed day-by-day travel plans using Google Gemini 1.5 Flash.
+- **🚀 AI-Powered Itineraries:** Generates detailed day-by-day travel plans using Google Gemini 2.5 Flash.
 - **🏨 Smart Recommendations:** Suggests hotels and hidden gems tailored to your budget and travel style.
 - **📍 Interactive Maps:** Integrated Google Maps links for every location and hotel.
 - **📸 Dynamic Imagery:** Fetches high-quality travel photos automatically using the Unsplash API.
@@ -18,7 +18,7 @@ A smart, AI-powered travel assistant that generates personalized trip itinerarie
 - **Frontend:** React.js (Vite), Tailwind CSS
 - **UI Library:** Shadcn UI, Radix UI, Lucide React
 - **Backend / Database:** Firebase (Firestore)
-- **AI Model:** Google Gemini API (`gemini-1.5-flash`)
+- **AI Model:** Google Gemini API (`gemini-2.5-flash`)
 - **Authentication:** Google OAuth 2.0
 - **APIs:** Unsplash API (Images), Google Maps (Navigation)
 
