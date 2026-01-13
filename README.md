@@ -38,19 +38,19 @@ Follow these steps to run the project locally.
 
 ### Prerequisites
 Make sure you have **Node.js** installed on your machine.
-
+ 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Neeraj1708/ai-trip-planner.git](https://github.com/Neeraj1708/ai-trip-planner.git)
-   cd ai-trip-planner
+   git clone [https://github.com/Neeraj1708/AI_Trip_Planner.git](https://github.com/Neeraj1708/AI_Trip_Planner.git)
+   cd AI_Trip_Planner
 
 ```
 
 2. **Install dependencies**
-```bash
-npm install
+   ```bash
+   npm install
 
 ```
 
