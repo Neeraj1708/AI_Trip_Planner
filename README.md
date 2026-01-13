@@ -15,29 +15,29 @@ A smart, AI-powered travel assistant that generates personalized trip itinerarie
 ![Project Banner](public/landing.png)
 ## ✨ Features
 
-- **🚀 AI-Powered Itineraries:** Generates detailed day-by-day travel plans using Google Gemini 2.5 Flash.
-- **🏨 Smart Recommendations:** Suggests hotels and hidden gems tailored to your budget and travel style.
-- **📍 Interactive Maps:** Integrated Google Maps links for every location and hotel.
-- **📸 Dynamic Imagery:** Fetches high-quality travel photos automatically using the Unsplash API.
-- **🔐 Secure Authentication:** Seamless Google Sign-In powered by Firebase & Google OAuth.
-- **🎨 Modern UI/UX:** Features a sleek "Glassmorphism" design, responsive layouts, and smooth animations using Tailwind CSS and Shadcn UI.
-- **💾 Cloud Sync:** Saves your generated trips to Firebase Firestore so you can view them anytime.
+    - **🚀 AI-Powered Itineraries:** Generates detailed day-by-day travel plans using Google Gemini 2.5 Flash.
+    - **🏨 Smart Recommendations:** Suggests hotels and hidden gems tailored to your budget and travel style.
+    - **📍 Interactive Maps:** Integrated Google Maps links for every location and hotel.
+    - **📸 Dynamic Imagery:** Fetches high-quality travel photos automatically using the Unsplash API.
+    - **🔐 Secure Authentication:** Seamless Google Sign-In powered by Firebase & Google OAuth.
+    - **🎨 Modern UI/UX:** Features a sleek "Glassmorphism" design, responsive layouts, and smooth animations using Tailwind CSS and Shadcn UI.
+    - **💾 Cloud Sync:** Saves your generated trips to Firebase Firestore so you can view them anytime.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js (Vite), Tailwind CSS
-- **UI Library:** Shadcn UI, Radix UI, Lucide React
-- **Backend / Database:** Firebase (Firestore)
-- **AI Model:** Google Gemini API (`gemini-2.5-flash`)
-- **Authentication:** Google OAuth 2.0
-- **APIs:** Unsplash API (Images), Google Maps (Navigation)
+    - **Frontend:** React.js (Vite), Tailwind CSS
+    - **UI Library:** Shadcn UI, Radix UI, Lucide React
+    - **Backend / Database:** Firebase (Firestore)
+    - **AI Model:** Google Gemini API (`gemini-2.5-flash`)
+    - **Authentication:** Google OAuth 2.0
+    - **APIs:** Unsplash API (Images), Google Maps (Navigation)
 
 ## 🚀 Getting Started
 
-Follow these steps to run the project locally.
+    Follow these steps to run the project locally.
 
 ### Prerequisites
-Make sure you have **Node.js** installed on your machine.
+    Make sure you have **Node.js** installed on your machine.
  
 ### Installation
 
